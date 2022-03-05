@@ -2,7 +2,7 @@ This project is part of a non-professional programmer to create a free tool for 
 
 The description will become available, work in progress. We built our own webserver for this small demo-project, great thanks to [Bryam Loaiza](https://www.linkedin.com/in/bryam-loaiza-a09b53126/).
 
-This django-demo-project, sourced at https://gdescribed, snd described in [Amazon](https://www.amazon.com/gp/product/B08H4W2WLD?pf_rd_r=CKQ4PMZXG5V9CG7FH60M&pf_rd_p=8fe9b1d0-f378-4356-8bb8-cada7525eadd&pd_rd_r=94544447-fe82-4846-8084-c9d7d5f68059&pd_rd_w=q8KtQ&pd_rd_wg=dbXiD&ref_=pd_gw_unk), and developed by [Bryam Loaiza](https://www.linkedin.com/in/bryam-loaiza-a09b53126/). View his series on [YouTube](https://www.youtube.com/channel/UChZR16e1XwZXy2yrk_8ymFg). 
+This django-demo-project, sourced at [GitHub](https://github.com/balt1794/takeoff), and described in [Amazon](https://www.amazon.com/gp/product/B08H4W2WLD?pf_rd_r=CKQ4PMZXG5V9CG7FH60M&pf_rd_p=8fe9b1d0-f378-4356-8bb8-cada7525eadd&pd_rd_r=94544447-fe82-4846-8084-c9d7d5f68059&pd_rd_w=q8KtQ&pd_rd_wg=dbXiD&ref_=pd_gw_unk), and developed by [Bryam Loaiza](https://www.linkedin.com/in/bryam-loaiza-a09b53126/). View his series on [YouTube](https://www.youtube.com/channel/UChZR16e1XwZXy2yrk_8ymFg). 
 
 I use his project because it explains in some detail how to develop a [Django](https://www.djangoproject.com/) website on my PC. The process of cloning shows the complexity of programming. However, non-programmers can understand the basics up to the point that they are able to start programming themselves. 
 
